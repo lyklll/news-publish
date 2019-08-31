@@ -1,0 +1,9 @@
+/unpackage/*
+/.gitee/*
+/git-tmp/*
+/platforms/*
+node_modules
+logs
+package-lock.json
+.DS_Store
+unpackage

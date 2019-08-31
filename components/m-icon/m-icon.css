@@ -1,0 +1,23 @@
+@font-face {
+	font-family: uniicons;
+	font-weight: normal;
+	font-style: normal;
+	src: url('https://at.alicdn.com/t/font_855572_5so343cpiy4.ttf?t=1536565627510') format('truetype');
+}
+
+.m-icon {
+	font-family: uniicons;
+	font-size: 48upx;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 1;
+	display: inline-block;
+	text-decoration: none;
+	-webkit-font-smoothing: antialiased;
+}
+.m-icon-renzheng:before {
+	content: '\e79f';
+}
+.m-icon-unlogin:before {
+	content: '\e602';
+}
